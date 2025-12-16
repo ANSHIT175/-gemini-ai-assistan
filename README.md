@@ -27,3 +27,14 @@ natural language responses.
 ## How to Run the Project
 1. Install Python (3.8+ recommended)
 2. Install dependencies:
+3. Add your Gemini API key in `app.py`
+4. Run the application:
+   ## Sample Output
+User: What is Artificial Intelligence?  
+AI: Artificial Intelligence refers to the simulation of human intelligence in machines.
+
+## Future Scope
+- Web-based interface
+- Multi-language support
+- Voice-based interaction
+- File-based question answering
